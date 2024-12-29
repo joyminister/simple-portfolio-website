@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;}
+h1{
+    font-size: 40px;}
+#head_hilight{
+    color: orange;}
+#head-section1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 3%;
+    text-align: center;}
+#head-section1 img{
+    width: 100%;
+    margin-top: 5px;}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    height: 550px;
+    background-repeat: no-repeat;}
+#head-section1 #link{
+    text-decoration: none;
+    background:linear-gradient(rgb(238, 132, 10), rgb(233, 48, 15));
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8%;}
+#about img{ 
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 3%;}
+#about1{
+    width: 100%;
+    margin-top: 5px;}
+#about1 h3{
+    width: 100%;
+    padding-top: 150px;
+    text-align: center;}
